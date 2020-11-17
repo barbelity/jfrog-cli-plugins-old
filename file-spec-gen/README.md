@@ -19,14 +19,14 @@ Uninstalling a plugin
 ## Usage
 ### Commands
 * create
-    - arguments:
+    - Arguments:
         No arguments
-    - flags:
+    - Flags:
         - --file: Output file path, if not provided the file-spec is outputted to the log. **[Optional]**
-    - example:
+    - Examples:
     ```
   $ jfrog file-spec-gen create
-  $ jfrog file-spec-gen create create --file="/path/to/spec"
+  $ jfrog file-spec-gen create --file="/path/to/spec"
   ```
 
 ## Release Notes
